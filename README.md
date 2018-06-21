@@ -14,11 +14,11 @@
 - FabCafe-classA-Homework-example.ghx // TrimWithRegion  
 - FabCafe-classB-1.ghx // Attractor  
 - FabCafe-classB-2.ghx // Attractor  
-- FabCafe-ClassC-1.ghx   
-- FabCafe-ClassC-2.ghx   
-- FabCafe-ClassE-1.ghx // python basic  
-- FabCafe-ClassE-2.ghx // ghPython basic  
-- FabCafe-ClassE-3.ghx  
+- FabCafe-classC-1.ghx   
+- FabCafe-classC-2.ghx   
+- FabCafe-classE-1.ghx // python basic  
+- FabCafe-classE-2.ghx // ghPython basic  
+- FabCafe-classE-3.ghx  
 
 - Font-Wave.jpg  
 
