@@ -10,6 +10,8 @@
 
 - Chair.ghx  
 
+- Cocoon-MetaBall.ghx // CocoonPointCharge, Refine
+
 - FabCafe-classA-1.ghx  
 - FabCafe-classA-Homework-example.ghx // TrimWithRegion  
 - FabCafe-classB-1.ghx // Attractor  
@@ -26,10 +28,12 @@
 
 - GrasshopperBake-with-ghPython.ghx // ghPython  
 
-- imageSampler.ghx // imageSampler  
-- imageSampler-02.ghx // imageSampler  
-- imageSampler-03.ghx // imageSampler  
-- imageSampler-04.ghx // imageSampler  
+- Group-01.jpg // Group  
+
+- ImageSampler.ghx // imageSampler  
+- ImageSampler-02.ghx // imageSampler  
+- ImageSampler-03.ghx // imageSampler  
+- ImageSampler-04.ghx // imageSampler  
 
 - Line-Reconstruction.ghx  
 
