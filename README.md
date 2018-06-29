@@ -24,6 +24,8 @@
 
 - Font-Wave.jpg  
 
+- ghPython-Array-01.ghx // ghPython for loop  
+
 - GH-vs-Python-vs-Cs-01.ghx  
 
 - GrasshopperBake-with-ghPython.ghx // ghPython  
