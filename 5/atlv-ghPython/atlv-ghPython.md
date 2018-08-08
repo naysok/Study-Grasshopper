@@ -62,7 +62,6 @@
 
 ### 2. GH Python: Inputs  
 
-02-01 → 02-12  
 02-01 → 02-15  
 
 ss-02-13_InputTree_1.ghx : DataTree（綺麗な UxV 個の配列）  
