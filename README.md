@@ -40,7 +40,9 @@
 
   - FabCafe-classE-3.ghx  
 
-  - Font-Wave.jpg  
+  - Font-Wave.ghx  
+
+  - Galapagos-01.ghx  
 
   - ghPython-Array-01.ghx // ghPython for loop  
 
