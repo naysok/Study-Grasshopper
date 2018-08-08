@@ -2,64 +2,89 @@
 
 ゼロから書き直したほうが良いのもある。  
 
+
+もう少し実用的なのはこっちに。  
+[http://naysok.org/GH/](http://naysok.org/GH/)
+
+
+
 ---  
 
 ### index  
 
-- BoxMorph-01.ghx // SurfaceBox, BoxMorph  
+- 5 // Rhino 5 + Grasshopper 0.9.0076  
 
-- Chair.ghx  
+  - atlv-ghPython // [http://atlv.org/education/ghpython/](http://atlv.org/education/ghpython/)  
 
-- Cocoon-MetaBall.ghx // CocoonPointCharge, Refine
+  - BoxMorph-01.ghx // SurfaceBox, BoxMorph  
 
-- FabCafe-classA-1.ghx  
-- FabCafe-classA-Homework-example.ghx // TrimWithRegion  
-- FabCafe-classB-1.ghx // Attractor  
-- FabCafe-classB-2.ghx // Attractor  
-- FabCafe-classC-1.ghx   
-- FabCafe-classC-2.ghx   
-- FabCafe-classE-1.ghx // python basic  
-- FabCafe-classE-2.ghx // ghPython basic  
-- FabCafe-classE-3.ghx  
+  - Chair.ghx  
 
-- Font-Wave.jpg  
+  - Cocoon-MetaBall.ghx // CocoonPointCharge, Refine
 
-- ghPython-Array-01.ghx // ghPython for loop  
+  - FabCafe-classA-1.ghx  
 
-- GH-vs-Python-vs-Cs-01.ghx  
+  - FabCafe-classA-Homework-example.ghx // TrimWithRegion  
 
-- GrasshopperBake-with-ghPython.ghx // ghPython  
+  - FabCafe-classB-1.ghx // Attractor  
 
-- Group-01.jpg // Group  
+  - FabCafe-classB-2.ghx // Attractor  
 
-- ImageSampler.ghx // imageSampler  
-- ImageSampler-02.ghx // imageSampler  
-- ImageSampler-03.ghx // imageSampler  
-- ImageSampler-04.ghx // imageSampler  
+  - FabCafe-classC-1.ghx   
 
-- Line-Reconstruction.ghx  
+  - FabCafe-classC-2.ghx   
 
-- Line-to-Bricks.ghx  
+  - FabCafe-classE-1.ghx // python basic  
 
-- Make-Script-RhinoPy-iGeo-p5.ghx  
+  - FabCafe-classE-2.ghx // ghPython basic  
 
-- Mesh-Reconstruction.ghx  
+  - FabCafe-classE-3.ghx  
 
-- Pattern-Circle-01.ghx  
-- Pattern-Ellipse-01.ghx  
-- Pattern-Honeycomb-01.ghx  
-- Pattern-Pen-Sakis-01.ghx  
-- Pattern-T-01.ghx  
+  - Font-Wave.jpg  
 
-- Perlin-Slimplex-Noise.ghx // Periln(py), SimplexNoise  
+  - ghPython-Array-01.ghx // ghPython for loop  
 
-- Thonet-Chair.ghx  
+  - GH-vs-Python-vs-Cs-01.ghx  
 
-- Timer.ghx  
+  - GrasshopperBake-with-ghPython.ghx // ghPython  
 
-- Twisted-Column.ghx  
+  - Group-01.jpg // Group  
 
-- Voronoi-Sphere.ghx // FacetDome, WbFrame, wbThicken  
+  - ImageSampler.ghx // imageSampler  
+
+  - ImageSampler-02.ghx // imageSampler  
+
+  - ImageSampler-03.ghx // imageSampler  
+
+  - ImageSampler-04.ghx // imageSampler  
+
+  - Line-Reconstruction.ghx  
+
+  - Line-to-Bricks.ghx  
+
+  - Make-Script-RhinoPy-iGeo-p5.ghx  
+
+  - Mesh-Reconstruction.ghx  
+
+  - Pattern-Circle-01.ghx  
+
+  - Pattern-Ellipse-01.ghx  
+
+  - Pattern-Honeycomb-01.ghx  
+
+  - Pattern-Pen-Sakis-01.ghx  
+
+  - Pattern-T-01.ghx  
+
+  - Perlin-Slimplex-Noise.ghx // Periln(py), SimplexNoise  
+
+  - Thonet-Chair.ghx  
+
+  - Timer.ghx  
+
+  - Twisted-Column.ghx  
+
+  - Voronoi-Sphere.ghx // FacetDome, WbFrame, wbThicken  
 
 
 ---
