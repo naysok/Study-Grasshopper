@@ -7,6 +7,9 @@
 [http://naysok.org/GH/](http://naysok.org/GH/)
 
 
+Rhino5 + GH 0.9.0076 と、Rhino 6 + GH 1.0以降 で、互換性がないっぽい。  
+
+
 
 ---  
 
@@ -14,7 +17,15 @@
 
 - 5 // Rhino 5 + Grasshopper 0.9.0076  
 
+  - OSC // OSC Sample  
+
+  - ScriptsScreenShot  
+
   - atlv-ghPython // [http://atlv.org/education/ghpython/](http://atlv.org/education/ghpython/)  
+
+  - cs-scripts // study c#  
+
+  - ghcpython // study ghCPython  
 
   - BoxMorph-01.ghx // SurfaceBox, BoxMorph  
 
